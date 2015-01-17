@@ -1,0 +1,14 @@
+{
+  "name": "gitter-api",
+  "version": "1.0.0",
+  "description": "Gitter plugin to read how many unread mesages you have. Inteded for tmux status bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnar Thor",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^0.20.0"
+  }
+}

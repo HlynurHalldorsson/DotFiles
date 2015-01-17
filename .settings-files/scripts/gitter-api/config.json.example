@@ -1,0 +1,5 @@
+{
+  "userID": "userID from gitter",
+  "token": "token from gitter API",
+  "api": "https://api.gitter.im/v1"
+}
